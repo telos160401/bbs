@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/test/bbs.cgi",
+      "destination": "/api/test/bbs"
+    }
+  ]
+}
